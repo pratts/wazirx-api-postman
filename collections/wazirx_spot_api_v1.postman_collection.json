@@ -975,6 +975,18 @@
 									"description": "Optional"
 								},
 								{
+									"key": "startTime",
+									"value": "1590148051000",
+									"description": "Fetch orders after this time",
+									"disabled": true
+								},
+								{
+									"key": "endTime",
+									"value": "1590148051000",
+									"description": "Fetch orders before this time",
+									"disabled": true
+								},
+								{
 									"key": "recvWindow",
 									"value": "20000",
 									"description": "The value cannot be greater than 60000. Default: 5000"
